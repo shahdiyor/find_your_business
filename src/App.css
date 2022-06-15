@@ -99,7 +99,7 @@
 
 .road_txt {
   position: absolute;
-  bottom: 100px;
+  bottom: 70px;
   right: 40px;
   color: #fdc53a;
   font-size: 40px;
@@ -177,6 +177,12 @@
   width: 100%;
   height: 750px;
   margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  top: auto;
+  bottom: auto;
 }
 
 .back_text {

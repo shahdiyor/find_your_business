@@ -57,7 +57,7 @@ function App() {
                   <img src={roadmap_img} alt="roadmapimg" className="roadImg"/>
                 </div>
                 <div className="road_txt">
-                  <h1>ЧТО ОТ<br/> ВАС ТРЕБУЕТЬСЯ?</h1>
+                  <h1>ЧТО ОТ<br/> ВАС <br/>ТРЕБУЕТЬСЯ?</h1>
                 </div>
               </div>
             </div>
@@ -66,7 +66,7 @@ function App() {
           </div>
         </div>
         <div className="test_app">
-          <Quez/>
+              <Quez></Quez>
         </div>
       </div>
     </div>
